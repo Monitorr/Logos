@@ -2,11 +2,13 @@
 
 
 
-## **Monitorr** : Webapps to Monitorr your application's uptime and logs.
+ ## <center> **Monitorr** : Webapps to Monitorr your application's uptime and logs. </center>
 
  ### **Monitorr**:  [![GitHub Master-release](https://img.shields.io/github/release/monitorr/monitorr.svg?style=flat)](https://github.com/monitorr/monitorr/releases)
 
 ### **Logarr**: [![GitHub Master-release](https://img.shields.io/github/release/monitorr/logarr.svg?style=flat)](https://github.com/monitorr/logarr/releases)
+
+---
 
 
 ### Connect:
@@ -31,3 +33,4 @@
 
 [ - Causefx](https://github.com/Causefx) - [christronyxyocum](https://github.com/christronyxyocum) - [rob1998](https://github.com/rob1998) - [Roxedux](https://github.com/si0972) -
 
+---
