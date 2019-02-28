@@ -2,7 +2,7 @@
 
 
 
- ## <center> **Monitorr** : Webapps to Monitorr your application's uptime and logs. </center>
+ ## **Monitorr** : Webapps to Monitorr your application's uptime and logs.
 
  ### **Monitorr**:  [![GitHub Master-release](https://img.shields.io/github/release/monitorr/monitorr.svg?style=flat)](https://github.com/monitorr/monitorr/releases)
 
