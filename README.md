@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+![monitorr](https://github.com/Monitorr/Logos/blob/master/monitorr_text_white_glow_banner.png)
 
-You can use the [editor on GitHub](https://github.com/Monitorr/Logos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## - *Monitorr* are two Webapps to Monitorr your application's uptime and logs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Monitorr:  [![GitHub Master-release](https://img.shields.io/github/release/monitorr/monitorr.svg?style=flat)](https://github.com/monitorr/monitorr/releases) [MASTER]
 
-```markdown
-Syntax highlighted code block
+Logarr:  [![GitHub Master-release](https://img.shields.io/github/release/monitorr/logarr.svg?style=flat)](https://github.com/monitorr/logarr/releases) [MASTER]
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Connect:
 
-**Bold** and _Italic_ and `Code` text
+- Need live help?  Join us on Discord:   [![Discord](https://img.shields.io/discord/102860784329052160.svg)](https://discord.gg/YKbRXtt)
 
-[Link](url) and ![Image](src)
-```
+- E-mail: monitorrapp@gmail.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Buy us a beer! Donate:        [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/monitorrapp)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Monitorr/Logos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## About Us:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [seanvree](https://github.com/seanvree)
+- [jonfinley](https://github.com/jonfinley)
+- [rob1998](https://github.com/rob1998)
+- [wjbeckett](https://github.com/wjbeckett)
+
+
+## Credits:
+
+[ - Causefx](https://github.com/Causefx) - [christronyxyocum](https://github.com/christronyxyocum) - [rob1998](https://github.com/rob1998) - [Roxedux](https://github.com/si0972) -
+
