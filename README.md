@@ -4,9 +4,9 @@
 
 ## **Monitorr** : Webapps to Monitorr your application's uptime and logs.
 
- ### **Monitorr**:  [![GitHub Master-release](https://img.shields.io/github/release/monitorr/monitorr.svg?style=flat)](https://github.com/monitorr/monitorr/releases) [MASTER]
+ ### **Monitorr**:  [![GitHub Master-release](https://img.shields.io/github/release/monitorr/monitorr.svg?style=flat)](https://github.com/monitorr/monitorr/releases)
 
-### **Logarr**: [![GitHub Master-release](https://img.shields.io/github/release/monitorr/logarr.svg?style=flat)](https://github.com/monitorr/logarr/releases) [MASTER]
+### **Logarr**: [![GitHub Master-release](https://img.shields.io/github/release/monitorr/logarr.svg?style=flat)](https://github.com/monitorr/logarr/releases)
 
 
 ### Connect:
