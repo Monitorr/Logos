@@ -9,8 +9,7 @@
 ### **Logarr**: [![GitHub Master-release](https://img.shields.io/github/release/monitorr/logarr.svg?style=flat)](https://github.com/monitorr/logarr/releases) [MASTER]
 
 
-
-## Connect:
+### Connect:
 
 - Need live help?  Join us on Discord:   [![Discord](https://img.shields.io/discord/102860784329052160.svg)](https://discord.gg/YKbRXtt)
 
@@ -20,7 +19,7 @@
 
 
 
-## About Us:
+### About Us:
 
 - [seanvree](https://github.com/seanvree)
 - [jonfinley](https://github.com/jonfinley)
@@ -28,7 +27,7 @@
 - [wjbeckett](https://github.com/wjbeckett)
 
 
-## Credits:
+### Credits:
 
 [ - Causefx](https://github.com/Causefx) - [christronyxyocum](https://github.com/christronyxyocum) - [rob1998](https://github.com/rob1998) - [Roxedux](https://github.com/si0972) -
 
