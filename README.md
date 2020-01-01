@@ -31,6 +31,6 @@
 
 ### Credits:
 
-[ - Causefx](https://github.com/Causefx) - [christronyxyocum](https://github.com/christronyxyocum) - [rob1998](https://github.com/rob1998) - [Roxedus](https://github.com/si0972) -
+[ - Causefx](https://github.com/Causefx) - [christronyxyocum](https://github.com/christronyxyocum) - [Roxedus](https://github.com/si0972) -
 
 ---
